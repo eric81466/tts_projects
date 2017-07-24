@@ -1,8 +1,8 @@
 
 #rockpaper
 #=begin
-score1 = 0
-score2 = 0
+score1 = 2
+score2 = 2
 
 while score1 < 5 && score2 < 5
 	puts ""
